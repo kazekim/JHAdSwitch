@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   ### Subspecs
    s.subspec 'AdMob' do |ad|
-    ad.source_files = 'ErrorKit/AdMob'
+    ad.source_files = 'JHAdSwitch/AdMob'
     ad.dependency 'AdMob', '6.9.2'
     ad.prefix_header_contents = '#define ERROR_KIT_ADMOB 1'
   end
