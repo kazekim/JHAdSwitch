@@ -19,7 +19,8 @@
 -(void)refresh;
 
 +(void)setGAdmobID:(NSString *)gAdmobID;
-
++(void)setDisableiAd:(BOOL)isDisable;
 @end
 
 static NSString *jhAdViewGAdmobID = @"Ad mob ID Here";
+static BOOL jhAdViewDisableiAd = NO;

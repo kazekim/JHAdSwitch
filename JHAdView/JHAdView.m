@@ -10,6 +10,7 @@
 #import <iAd/iAd.h>
 #import <Google-Mobile-Ads-SDK/GADBannerView.h>
 #import <Google-Mobile-Ads-SDK/GADRequest.h>
+#import "JHAdSwitch.h"
 
 @interface JHAdView() <ADBannerViewDelegate,GADBannerViewDelegate>
 
@@ -44,8 +45,11 @@
 
 -(void)setupLayout
 {
-    [self initiAdBanner];
+    if(!jhAdViewDisableiAd){
+        [self initiAdBanner];
+    }
     [self initAdmobBanner];
+    
 }
 
 -(void)initiAdBanner
@@ -108,7 +112,9 @@
 // We've received an ad successfully.
 - (void)adViewDidReceiveAd:(GADBannerView *)adView {
     NSLog(@"Received ad successfully");
-    [self hideBanner:self.iAdBannerView];
+    if(!jhAdViewDisableiAd){
+        [self hideBanner:self.iAdBannerView];
+    }
     [self showBanner:self.gAdBannerView];
 }
 
@@ -144,10 +150,14 @@
 
 -(void)refresh
 {
-    [self.iAdBannerView removeFromSuperview];
-    self.iAdBannerView = nil;
+    if(jhAdViewDisableiAd){
+        [self loadRequestAdmob];
+    }else{
+        [self.iAdBannerView removeFromSuperview];
+        self.iAdBannerView = nil;
     
-    [self initiAdBanner];
+        [self initiAdBanner];
+    }
 }
 
 #pragma mark hide/show banner
@@ -177,6 +187,12 @@
 +(void)setGAdmobID:(NSString *)gAdmobID
 {
     jhAdViewGAdmobID = gAdmobID;
+}
+
+#pragma mark set Disable iAd
++(void)setDisableiAd:(BOOL)isDisable
+{
+    jhAdViewDisableiAd = isDisable;
 }
 
 

@@ -61,7 +61,7 @@
 		DF5C57B819487E6300DE057E /* JHAdView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHAdView.h; sourceTree = "<group>"; };
 		DF5C57B919487E6300DE057E /* JHAdView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHAdView.m; sourceTree = "<group>"; };
 		DF5C57BB1948835E00DE057E /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
-		DF5C57BD1948870800DE057E /* JHAdSwitch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JHAdSwitch.h; sourceTree = "<group>"; };
+		DF5C57BE1948C69C00DE057E /* JHAdSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHAdSwitch.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,7 +172,7 @@
 			children = (
 				DF5C57B819487E6300DE057E /* JHAdView.h */,
 				DF5C57B919487E6300DE057E /* JHAdView.m */,
-				DF5C57BD1948870800DE057E /* JHAdSwitch.h */,
+				DF5C57BE1948C69C00DE057E /* JHAdSwitch.h */,
 			);
 			name = JHAdView;
 			path = ../../JHAdView;
@@ -442,6 +442,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JHAdSwitch/JHAdSwitch-Prefix.pch";
 				INFOPLIST_FILE = "JHAdSwitch/JHAdSwitch-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -456,6 +457,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JHAdSwitch/JHAdSwitch-Prefix.pch";
 				INFOPLIST_FILE = "JHAdSwitch/JHAdSwitch-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

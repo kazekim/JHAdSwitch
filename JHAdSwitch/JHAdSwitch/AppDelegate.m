@@ -17,6 +17,8 @@
     
     [JHAdView setGAdmobID:@"ca-app-pub-1236091158761369/3284807473"];
     
+    [JHAdView setDisableiAd:YES];
+    
     return YES;
 }
 							
