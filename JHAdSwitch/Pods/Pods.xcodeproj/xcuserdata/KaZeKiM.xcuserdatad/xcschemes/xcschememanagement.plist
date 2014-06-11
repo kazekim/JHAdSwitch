@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-Google-AdMob-Ads-SDK.xcscheme</key>
+		<key>Pods-Google-Mobile-Ads-SDK.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -17,12 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8A444011703F4D688BF5BCC7</key>
+		<key>31B812359D2E409B83317719</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DA6E930F2D0A48EAB34AE8CB</key>
+		<key>AA99CACD1B154341994D39E3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

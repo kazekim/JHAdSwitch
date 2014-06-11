@@ -8,8 +8,8 @@
 
 #import "JHAdView.h"
 #import <iAd/iAd.h>
-#import <Google-AdMob-Ads-SDK/GADBannerView.h>
-#import <Google-AdMob-Ads-SDK/GADRequest.h>
+#import <Google-Mobile-Ads-SDK/GADBannerView.h>
+#import <Google-Mobile-Ads-SDK/GADRequest.h>
 
 @interface JHAdView() <ADBannerViewDelegate,GADBannerViewDelegate>
 

@@ -10,7 +10,525 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>034F056638184E1CBE48670D</key>
+		<key>01E33511240F41E680087596</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADBannerViewDelegate.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADBannerViewDelegate.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>06BDEA39DDDA465280E988DF</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-Google-Mobile-Ads-SDK.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>0C5BA52A3576407499807536</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DFPExtras.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/DoubleClick/DFPExtras.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0D7DD4A19C244222BA46BEDB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADCustomEventInterstitial.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Mediation/GADCustomEventInterstitial.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0E4F89BDAE38468CB5B8EF22</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>6D809DC310D14BA99E3AD79C</string>
+				<string>1D7751D3E3124E01BAB8F866</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>0FFC2D97777F4025B3DFD385</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D231777173104EC991FD46E9</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>10A99C544F0048538FA3AF29</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7DC506FF05214A95B2D6C35D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>112DA32A2A2D40DA8F1694AD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>205D40E473334DF787576480</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>119651292BEA462089265A62</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>AA99CACD1B154341994D39E3</string>
+			<key>targetProxy</key>
+			<string>F3ED77ECF33C455F998C70AA</string>
+		</dict>
+		<key>131AB4D6DF4B408995C675B2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>76F083BD0F5C40AC8C536C0A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>150F9D93E988448CA1BDA30B</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>AVFoundation.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>18D19F34BE2947C9AA6F5D6F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>01E33511240F41E680087596</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1C9B0D8EDF094638B5C58359</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>2C64E31A16054F7AAE70DC95</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>6.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>1D7751D3E3124E01BAB8F866</key>
+		<dict>
+			<key>fileRef</key>
+			<string>06BDEA39DDDA465280E988DF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>205D40E473334DF787576480</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DFPInterstitial.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/DoubleClick/DFPInterstitial.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>20D19E7636FC4304837E85A5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-Google-Mobile-Ads-SDK.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>227400E6C41C4ECFA443DD34</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>StoreKit.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/StoreKit.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>22B8CB9E7F4D4FF08BDA43B9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>archive.ar</string>
+			<key>name</key>
+			<string>libGoogleAdMobAds.a</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/libGoogleAdMobAds.a</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2325B126319945C88C4336E9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2496C7536E7C41FCA86A6597</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>AudioToolbox.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>2791F6327A954F4EB611BEFB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>798280EE53CE4BD2BA11D473</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>27ECCC5E62774B27A967C223</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-Google-Mobile-Ads-SDK-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2975826CF53D40C6841B88C2</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>C6E0FE1A5D4C469288C4647B</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2C64E31A16054F7AAE70DC95</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2E5589F24D184AEBB2B3B6C9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C98B28A711864AFB865DB4A6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>31B812359D2E409B83317719</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>70252AB3A3CC4D1C92580C6B</string>
+			<key>buildPhases</key>
+			<array>
+				<string>6E6CDB5B770349C49EFED96E</string>
+				<string>0E4F89BDAE38468CB5B8EF22</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>119651292BEA462089265A62</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>productName</key>
+			<string>Pods</string>
+			<key>productReference</key>
+			<string>F42F313513AD4525ACE1313B</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>31D5A42A0CBE419F9F8FCAB5</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>22B8CB9E7F4D4FF08BDA43B9</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3611990AA4D244D3AD7CC0F5</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CoreGraphics.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>39F1A5A2F86949A3BD1D1026</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Foundation.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>3DE7707AB0B944D1A1B18FA2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>39F1A5A2F86949A3BD1D1026</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3F9CB86E545A404F9B53353F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>60A5FB88FA44415888100333</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>40C245B846E34324AE417456</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>AE5CCD66673F41BCA19317B5</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4118019431AE4C138720DED0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AD602B0836FE4ED79F50ABD1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4276F4BCE0F143E091E21EAE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADCustomEventExtras.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Mediation/GADCustomEventExtras.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>43F23E0EF7DF4498AF1AE364</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2496C7536E7C41FCA86A6597</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>44119C4C70F2410BA11C5C79</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADInAppPurchase.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInAppPurchase.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>45203451C4CD4F52824C0B80</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4AFE27F2188C4F5A89C5EA17</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>A74DD0B0E7C74FBF84906A1B</string>
+				<string>2975826CF53D40C6841B88C2</string>
+				<string>40C245B846E34324AE417456</string>
+				<string>D7E9CEA9961547168093D63E</string>
+				<string>CDDFFFA1509843C8BC394EB1</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4D0F1DBDFAFB45C3B2E0278C</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>B40920FB30DE43A485324540</string>
+				<string>95513E27F5D3407590B594D8</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>4FCAC8B51C774BFAB92A1693</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-Google-Mobile-Ads-SDK-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>523DEAB3024341A195ED5438</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C50B01D145504AD482C0A551</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>58C78BF5D89841E28876823C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -25,60 +543,188 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>03A40DA6DC1540FB95CCC3AD</key>
+		<key>60A5FB88FA44415888100333</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADCustomEventBanner.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Mediation/GADCustomEventBanner.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>60E55CC8E1A8413B89B4F235</key>
 		<dict>
 			<key>fileRef</key>
-			<string>26BF69786DEA4757A65AEF8A</string>
+			<string>3611990AA4D244D3AD7CC0F5</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>03DC5288F1DE4ACFBA40BE9A</key>
+		<key>619D1B051EE843268FCD115B</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>SystemConfiguration.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>631208D75DB644D291609F83</key>
 		<dict>
 			<key>fileRef</key>
-			<string>64E7E2BA86144ABA95957ADD</string>
+			<string>9F08EC9A2D0A4070A68323A9</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>113A68F2604D44D6B36DA447</key>
+		<key>63FE305780754EB0A99667F7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>150F9D93E988448CA1BDA30B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>66A26A4C81284F81B52FB231</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADSwipeableBannerViewDelegate.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/DoubleClick/GADSwipeableBannerViewDelegate.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6827E3E84B654252A512F0A0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A14730A6024F4A2DBB8803C0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6AC0ED919C844AC3B3DDAEC5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F62593B44A6C4D3F9961F5AD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6D3DF13797D5475BAF47C6D0</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>7566304A84AF4C1B89C52A6B</string>
+				<string>A95569D454944089B4E87272</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>6D809DC310D14BA99E3AD79C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>39F1A5A2F86949A3BD1D1026</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6E6CDB5B770349C49EFED96E</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>D0AF2BB03840421F9816620A</string>
+				<string>D6E872CB83AA463C8C6AE7D1</string>
 			</array>
 			<key>isa</key>
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>12CBC3CEE85B4A5BAE874132</key>
+		<key>70252AB3A3CC4D1C92580C6B</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>1C9B0D8EDF094638B5C58359</string>
+				<string>BCD235849175463B90348C0B</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>712A0DB6738F4CCDA807FB43</key>
+		<dict>
+			<key>fileRef</key>
+			<string>893B8A2C359146298C21B3AA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7150C69BC376447694A7617E</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>MessageUI.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MessageUI.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>71C0DDA57A23464F9CFEFDB9</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>F0E21885FAE449869417FB89</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>73F7BA7E8DAE424E8928C02E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CB8D63E99B104AA4A285B0CA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>74D50D63AB7A4A6999C11112</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text</string>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADSearchBannerView.h</string>
 			<key>path</key>
-			<string>Pods-acknowledgements.markdown</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Search/GADSearchBannerView.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>16EEF9CAF5444CB0A2B466D4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>19BC754D07A64D4A878BAD33</key>
+		<key>7566304A84AF4C1B89C52A6B</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -145,32 +791,14 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>1FDBB249925E4F569ED667B4</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5AB1CF1C5CB045B99332B89E</string>
-				<string>12CBC3CEE85B4A5BAE874132</string>
-				<string>16EEF9CAF5444CB0A2B466D4</string>
-				<string>58E74F793069422E95E4E097</string>
-				<string>E0EE7C316ED0425190CA7BA6</string>
-				<string>24C33D51AAD84A7F8899F04F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>229A667B43594AE88DC07E9D</key>
+		<key>7601724F53484BDBA867424E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F5D30E07B8A14324AA9FC732</string>
+			<string>227400E6C41C4ECFA443DD34</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>24BC48195D784A8BB4BB9A59</key>
+		<key>76F083BD0F5C40AC8C536C0A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -179,26 +807,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>GADModules.h</string>
+			<string>GADAppEventDelegate.h</string>
 			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADModules.h</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/DoubleClick/GADAppEventDelegate.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>24C33D51AAD84A7F8899F04F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>26BF69786DEA4757A65AEF8A</key>
+		<key>798280EE53CE4BD2BA11D473</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -207,55 +822,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>GADInterstitial.h</string>
+			<string>GADRequest.h</string>
 			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInterstitial.h</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADRequest.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>26FD0D26938842479C14C38C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>62A90C4E9AB9438DA09E9B52</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2E72143015F043949C923026</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FE1C434C14BE4156AAEBCFCA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2FB9538D04884B8D8D3ED4EA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-Google-AdMob-Ads-SDK-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>33776A4047EB49829E5A8C92</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>GADBannerViewDelegate.h</string>
-			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADBannerViewDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>337BFD13BB674B789EA5CAD0</key>
+		<key>7B6AE272FDC24455BF72B86E</key>
 		<dict>
 			<key>attributes</key>
 			<dict>
@@ -263,7 +836,7 @@
 				<string>0510</string>
 			</dict>
 			<key>buildConfigurationList</key>
-			<string>A1732D63284342CBAD0698FB</string>
+			<string>6D3DF13797D5475BAF47C6D0</string>
 			<key>compatibilityVersion</key>
 			<string>Xcode 3.2</string>
 			<key>developmentRegion</key>
@@ -277,9 +850,9 @@
 				<string>en</string>
 			</array>
 			<key>mainGroup</key>
-			<string>5398F7806E2543DBB0661AC2</string>
+			<string>4AFE27F2188C4F5A89C5EA17</string>
 			<key>productRefGroup</key>
-			<string>BC5906886E6E4E03A106859B</string>
+			<string>D7E9CEA9961547168093D63E</string>
 			<key>projectDirPath</key>
 			<string></string>
 			<key>projectReferences</key>
@@ -288,64 +861,228 @@
 			<string></string>
 			<key>targets</key>
 			<array>
-				<string>8A444011703F4D688BF5BCC7</string>
-				<string>DA6E930F2D0A48EAB34AE8CB</string>
+				<string>31B812359D2E409B83317719</string>
+				<string>AA99CACD1B154341994D39E3</string>
 			</array>
 		</dict>
-		<key>3B815347233A489080C59261</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>337BFD13BB674B789EA5CAD0</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>DA6E930F2D0A48EAB34AE8CB</string>
-			<key>remoteInfo</key>
-			<string>Pods-Google-AdMob-Ads-SDK</string>
-		</dict>
-		<key>3D91D718CC7F49668C3E3587</key>
+		<key>7DC506FF05214A95B2D6C35D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DFPSwipeableBannerView.h</string>
 			<key>path</key>
-			<string>Pods-Google-AdMob-Ads-SDK-Private.xcconfig</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/DoubleClick/DFPSwipeableBannerView.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3F1159038DB848C8812A4956</key>
+		<key>82C74F8D93BA478DA1E15649</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADAdSize.h</string>
 			<key>path</key>
-			<string>Pods-Google-AdMob-Ads-SDK.xcconfig</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADAdSize.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>42A9D66E6C7F42928F6DB89E</key>
+		<key>893B8A2C359146298C21B3AA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADAdSizeDelegate.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/DoubleClick/GADAdSizeDelegate.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>89D66874804F44B8AE80FC26</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>20D19E7636FC4304837E85A5</string>
+				<string>4FCAC8B51C774BFAB92A1693</string>
+				<string>9617772F135644A4A442AA73</string>
+				<string>27ECCC5E62774B27A967C223</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>8D2AE164E9B74FBA9164EB74</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C5B00C0C8DB0476EBBBE41C3</string>
+			<string>914F97F2D6CC46F2B2E3A927</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>44B6014D95464F88B46277F9</key>
+		<key>914F97F2D6CC46F2B2E3A927</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADRequestError.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADRequestError.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>93BDF56722F34AD48461E1A2</key>
 		<dict>
 			<key>fileRef</key>
-			<string>46D9610DC85C47A8AA2B818D</string>
+			<string>7150C69BC376447694A7617E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>462BB450ED0C4C49B2E06C58</key>
+		<key>95513E27F5D3407590B594D8</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>4FCAC8B51C774BFAB92A1693</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-Google-Mobile-Ads-SDK-prefix.pch</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>6.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>9617772F135644A4A442AA73</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-Google-Mobile-Ads-SDK-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>96C19B2B7F414EFEBABB9FB5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>619D1B051EE843268FCD115B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9A860B967B1E442F805E5013</key>
+		<dict>
+			<key>fileRef</key>
+			<string>82C74F8D93BA478DA1E15649</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9ADE909CE2104EDEBEF1F1D3</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2C64E31A16054F7AAE70DC95</string>
+				<string>CBB0DBB3B1B749EBA7695E57</string>
+				<string>2325B126319945C88C4336E9</string>
+				<string>EC1E8B05A79A41BEAE394A13</string>
+				<string>FE199EFA5846492291C8E2F5</string>
+				<string>45203451C4CD4F52824C0B80</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9F08EC9A2D0A4070A68323A9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADBannerView.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADBannerView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A14730A6024F4A2DBB8803C0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADInAppPurchaseDelegate.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInAppPurchaseDelegate.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A74DD0B0E7C74FBF84906A1B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -362,114 +1099,7 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>46D9610DC85C47A8AA2B818D</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>AudioToolbox.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>49FAE2FD76D945CDAACB2943</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>8DC7667B4A844D17A9138E6E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>4AB1C9020F2E4CA383748DFC</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>42A9D66E6C7F42928F6DB89E</string>
-				<string>A0CCFEC4E3724B438F5E3958</string>
-				<string>44B6014D95464F88B46277F9</string>
-				<string>5A66D66212BE4875BD56561A</string>
-				<string>26FD0D26938842479C14C38C</string>
-				<string>A3E9C9E62EA64562BB056606</string>
-				<string>03DC5288F1DE4ACFBA40BE9A</string>
-				<string>727F8F46B5444B768E60E47D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>4F0997944746475AA71F2EFC</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreGraphics.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>5398F7806E2543DBB0661AC2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>462BB450ED0C4C49B2E06C58</string>
-				<string>835CD7683CBF46E48D14EB1A</string>
-				<string>887EB2484C834A90820256D0</string>
-				<string>BC5906886E6E4E03A106859B</string>
-				<string>8AD5E56FEAAB427CBA187D9F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>58E74F793069422E95E4E097</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5A66D66212BE4875BD56561A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4F0997944746475AA71F2EFC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5AB1CF1C5CB045B99332B89E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5C3EB6D8E3C0423182147451</key>
+		<key>A7E93283DE4D47C08E284639</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -478,389 +1108,27 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>GADInterstitialDelegate.h</string>
+			<string>GADSearchRequest.h</string>
 			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInterstitialDelegate.h</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Search/GADSearchRequest.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5E769C7004CA40E59AECA36B</key>
+		<key>A814AF0BD003463BA04F1633</key>
 		<dict>
 			<key>fileRef</key>
-			<string>034F056638184E1CBE48670D</string>
+			<string>A7E93283DE4D47C08E284639</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>60CEABDFE6FF4BFA934D7728</key>
+		<key>A838BC1156504EFFA9D33F47</key>
 		<dict>
 			<key>fileRef</key>
-			<string>6B272D49A2D44D498CAC2F86</string>
+			<string>4276F4BCE0F143E091E21EAE</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>614B6F8E02CD4EDDAC5DC2B6</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>SystemConfiguration.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>62A90C4E9AB9438DA09E9B52</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreTelephony.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreTelephony.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>642E422CD4DD48F4A32D9677</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>034F056638184E1CBE48670D</string>
-				<string>FE1C434C14BE4156AAEBCFCA</string>
-				<string>F5D30E07B8A14324AA9FC732</string>
-				<string>CE5EF3D9530842178963E675</string>
-				<string>33776A4047EB49829E5A8C92</string>
-				<string>EC6F80167C7B445393132C5F</string>
-				<string>904645A978F4470CAC46FD32</string>
-				<string>26BF69786DEA4757A65AEF8A</string>
-				<string>5C3EB6D8E3C0423182147451</string>
-				<string>24BC48195D784A8BB4BB9A59</string>
-				<string>F5F887C938FC4B0B8A479BF0</string>
-				<string>C36A34990522477CAA3F4430</string>
-				<string>BF823CD1457D462F877FFEAE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Google-AdMob-Ads-SDK</string>
-			<key>path</key>
-			<string>Google-AdMob-Ads-SDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>64E7E2BA86144ABA95957ADD</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>MessageUI.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MessageUI.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>6B272D49A2D44D498CAC2F86</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>727F8F46B5444B768E60E47D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>614B6F8E02CD4EDDAC5DC2B6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7B8DC74B55494A2A9467370B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-Google-AdMob-Ads-SDK-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>835CD7683CBF46E48D14EB1A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>97BDCA572DA2400F8F584699</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8366214789B0407C96148740</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>DA6E930F2D0A48EAB34AE8CB</string>
-			<key>targetProxy</key>
-			<string>3B815347233A489080C59261</string>
-		</dict>
-		<key>865F8D64A3FE46CF969EB16F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>60CEABDFE6FF4BFA934D7728</string>
-				<string>86E72D3C9D724A4299AF6BF4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>86CD7178B9AB4BA5AD2CFC02</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>5AB1CF1C5CB045B99332B89E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>6.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>86E72D3C9D724A4299AF6BF4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E10891B6E5134AA588F032B8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>87569026AB974E8487FA4481</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F5F887C938FC4B0B8A479BF0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>887EB2484C834A90820256D0</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>642E422CD4DD48F4A32D9677</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8A444011703F4D688BF5BCC7</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>8EE83E73F69B410D9109B0BB</string>
-			<key>buildPhases</key>
-			<array>
-				<string>113A68F2604D44D6B36DA447</string>
-				<string>865F8D64A3FE46CF969EB16F</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>8366214789B0407C96148740</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>productName</key>
-			<string>Pods</string>
-			<key>productReference</key>
-			<string>D8B4ADD3FB174835A53ABBDE</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>8AD5E56FEAAB427CBA187D9F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1FDBB249925E4F569ED667B4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8DC7667B4A844D17A9138E6E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7B8DC74B55494A2A9467370B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8EE83E73F69B410D9109B0BB</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>86CD7178B9AB4BA5AD2CFC02</string>
-				<string>F8C305F08E1E4563939ED2F6</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>904645A978F4470CAC46FD32</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>GADInAppPurchaseDelegate.h</string>
-			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInAppPurchaseDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>97BDCA572DA2400F8F584699</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C5B00C0C8DB0476EBBBE41C3</string>
-				<string>E68BD436E6054233BAE3B035</string>
-				<string>46D9610DC85C47A8AA2B818D</string>
-				<string>4F0997944746475AA71F2EFC</string>
-				<string>62A90C4E9AB9438DA09E9B52</string>
-				<string>6B272D49A2D44D498CAC2F86</string>
-				<string>64E7E2BA86144ABA95957ADD</string>
-				<string>614B6F8E02CD4EDDAC5DC2B6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A0CCFEC4E3724B438F5E3958</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E68BD436E6054233BAE3B035</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A1732D63284342CBAD0698FB</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>19BC754D07A64D4A878BAD33</string>
-				<string>BE3BCCCB9FC2483691AD6834</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>A3E9C9E62EA64562BB056606</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6B272D49A2D44D498CAC2F86</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>AA67CB6EC8154AD69A3BE22B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>904645A978F4470CAC46FD32</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BC5906886E6E4E03A106859B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D8B4ADD3FB174835A53ABBDE</string>
-				<string>E10891B6E5134AA588F032B8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BE19FE8D46C245098AA05790</key>
-		<dict>
-			<key>fileRef</key>
-			<string>33776A4047EB49829E5A8C92</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BE3BCCCB9FC2483691AD6834</key>
+		<key>A95569D454944089B4E87272</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -918,132 +1186,54 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>BF823CD1457D462F877FFEAE</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3F1159038DB848C8812A4956</string>
-				<string>3D91D718CC7F49668C3E3587</string>
-				<string>7B8DC74B55494A2A9467370B</string>
-				<string>2FB9538D04884B8D8D3ED4EA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>C03214C12F3643DB8DBDFAA7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EC6F80167C7B445393132C5F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C36A34990522477CAA3F4430</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>GADRequestError.h</string>
-			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADRequestError.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C5B00C0C8DB0476EBBBE41C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>AVFoundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>CD2428CEEA4C4EF7A8B97370</key>
-		<dict>
-			<key>fileRef</key>
-			<string>24BC48195D784A8BB4BB9A59</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CE5EF3D9530842178963E675</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>GADBannerView.h</string>
-			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADBannerView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D0AF2BB03840421F9816620A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>58E74F793069422E95E4E097</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D7DC1A68D09D464DB0E3747A</key>
+		<key>A984D6DE3CB048258BB64892</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>5E769C7004CA40E59AECA36B</string>
-				<string>2E72143015F043949C923026</string>
-				<string>229A667B43594AE88DC07E9D</string>
-				<string>E3D6492ABD1243F996F77F9D</string>
-				<string>BE19FE8D46C245098AA05790</string>
-				<string>C03214C12F3643DB8DBDFAA7</string>
-				<string>AA67CB6EC8154AD69A3BE22B</string>
-				<string>03A40DA6DC1540FB95CCC3AD</string>
-				<string>E33CD02DB3E34C1A8709B360</string>
-				<string>CD2428CEEA4C4EF7A8B97370</string>
-				<string>87569026AB974E8487FA4481</string>
-				<string>F3C35DA42E7E4660B2117B71</string>
+				<string>6AC0ED919C844AC3B3DDAEC5</string>
+				<string>EA28A5376AA840898052B4C0</string>
+				<string>112DA32A2A2D40DA8F1694AD</string>
+				<string>10A99C544F0048538FA3AF29</string>
+				<string>C0BAF512297A409488EE0411</string>
+				<string>0FFC2D97777F4025B3DFD385</string>
+				<string>9A860B967B1E442F805E5013</string>
+				<string>712A0DB6738F4CCDA807FB43</string>
+				<string>131AB4D6DF4B408995C675B2</string>
+				<string>631208D75DB644D291609F83</string>
+				<string>18D19F34BE2947C9AA6F5D6F</string>
+				<string>3F9CB86E545A404F9B53353F</string>
+				<string>EBC0034668AC4A2FAB878A55</string>
+				<string>A838BC1156504EFFA9D33F47</string>
+				<string>EFAF802D7ACD4E209C554B76</string>
+				<string>AB055D63090A4244BAEBB4A9</string>
+				<string>4118019431AE4C138720DED0</string>
+				<string>D4C1ED3F96DA4909877272DC</string>
+				<string>6827E3E84B654252A512F0A0</string>
+				<string>2E5589F24D184AEBB2B3B6C9</string>
+				<string>523DEAB3024341A195ED5438</string>
+				<string>73F7BA7E8DAE424E8928C02E</string>
+				<string>2791F6327A954F4EB611BEFB</string>
+				<string>8D2AE164E9B74FBA9164EB74</string>
+				<string>B754A8BF0DFE475DB5485893</string>
+				<string>A814AF0BD003463BA04F1633</string>
+				<string>EE86A69317884E7398A5C014</string>
 			</array>
 			<key>isa</key>
 			<string>PBXHeadersBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>D8B4ADD3FB174835A53ABBDE</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>DA6E930F2D0A48EAB34AE8CB</key>
+		<key>AA99CACD1B154341994D39E3</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>EAA05BDA1011461D939D8877</string>
+			<string>4D0F1DBDFAFB45C3B2E0278C</string>
 			<key>buildPhases</key>
 			<array>
-				<string>49FAE2FD76D945CDAACB2943</string>
-				<string>4AB1C9020F2E4CA383748DFC</string>
-				<string>D7DC1A68D09D464DB0E3747A</string>
+				<string>71C0DDA57A23464F9CFEFDB9</string>
+				<string>C69997B6A34B411483F5C163</string>
+				<string>A984D6DE3CB048258BB64892</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -1052,18 +1242,83 @@
 			<key>isa</key>
 			<string>PBXNativeTarget</string>
 			<key>name</key>
-			<string>Pods-Google-AdMob-Ads-SDK</string>
+			<string>Pods-Google-Mobile-Ads-SDK</string>
 			<key>productName</key>
-			<string>Pods-Google-AdMob-Ads-SDK</string>
+			<string>Pods-Google-Mobile-Ads-SDK</string>
 			<key>productReference</key>
-			<string>E10891B6E5134AA588F032B8</string>
+			<string>06BDEA39DDDA465280E988DF</string>
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>DDACCB77F7F64BAC9F8A7BC1</key>
+		<key>AB055D63090A4244BAEBB4A9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F46C059376414E0FA0D5051C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AD602B0836FE4ED79F50ABD1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADCustomEventRequest.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Mediation/GADCustomEventRequest.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AE5CCD66673F41BCA19317B5</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>F62593B44A6C4D3F9961F5AD</string>
+				<string>0C5BA52A3576407499807536</string>
+				<string>205D40E473334DF787576480</string>
+				<string>7DC506FF05214A95B2D6C35D</string>
+				<string>58C78BF5D89841E28876823C</string>
+				<string>D231777173104EC991FD46E9</string>
+				<string>82C74F8D93BA478DA1E15649</string>
+				<string>893B8A2C359146298C21B3AA</string>
+				<string>76F083BD0F5C40AC8C536C0A</string>
+				<string>9F08EC9A2D0A4070A68323A9</string>
+				<string>01E33511240F41E680087596</string>
+				<string>60A5FB88FA44415888100333</string>
+				<string>CA4731789138412789B734E2</string>
+				<string>4276F4BCE0F143E091E21EAE</string>
+				<string>0D7DD4A19C244222BA46BEDB</string>
+				<string>F46C059376414E0FA0D5051C</string>
+				<string>AD602B0836FE4ED79F50ABD1</string>
+				<string>44119C4C70F2410BA11C5C79</string>
+				<string>A14730A6024F4A2DBB8803C0</string>
+				<string>C98B28A711864AFB865DB4A6</string>
+				<string>C50B01D145504AD482C0A551</string>
+				<string>CB8D63E99B104AA4A285B0CA</string>
+				<string>798280EE53CE4BD2BA11D473</string>
+				<string>914F97F2D6CC46F2B2E3A927</string>
+				<string>74D50D63AB7A4A6999C11112</string>
+				<string>A7E93283DE4D47C08E284639</string>
+				<string>66A26A4C81284F81B52FB231</string>
+				<string>31D5A42A0CBE419F9F8FCAB5</string>
+				<string>89D66874804F44B8AE80FC26</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Google-Mobile-Ads-SDK</string>
+			<key>path</key>
+			<string>Google-Mobile-Ads-SDK</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B40920FB30DE43A485324540</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>3D91D718CC7F49668C3E3587</string>
+			<string>4FCAC8B51C774BFAB92A1693</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -1081,7 +1336,7 @@
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
 				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-Google-AdMob-Ads-SDK-prefix.pch</string>
+				<string>Pods-Google-Mobile-Ads-SDK-prefix.pch</string>
 				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
 				<array>
 					<string>DEBUG=1</string>
@@ -1111,7 +1366,78 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>E0EE7C316ED0425190CA7BA6</key>
+		<key>B754A8BF0DFE475DB5485893</key>
+		<dict>
+			<key>fileRef</key>
+			<string>74D50D63AB7A4A6999C11112</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B9CBA1AF0B374B40B5B3D87C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DBC1E92A8EB84D2DAD8541EA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BCD235849175463B90348C0B</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>2C64E31A16054F7AAE70DC95</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>6.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>C0BAF512297A409488EE0411</key>
+		<dict>
+			<key>fileRef</key>
+			<string>58C78BF5D89841E28876823C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C50B01D145504AD482C0A551</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1119,66 +1445,54 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADInterstitialDelegate.h</string>
 			<key>path</key>
-			<string>Pods-environment.h</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInterstitialDelegate.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E10891B6E5134AA588F032B8</key>
+		<key>C69997B6A34B411483F5C163</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-Google-AdMob-Ads-SDK.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>E33CD02DB3E34C1A8709B360</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5C3EB6D8E3C0423182147451</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E3D6492ABD1243F996F77F9D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CE5EF3D9530842178963E675</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E68BD436E6054233BAE3B035</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>AdSupport.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AdSupport.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>EAA05BDA1011461D939D8877</key>
-		<dict>
-			<key>buildConfigurations</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>DDACCB77F7F64BAC9F8A7BC1</string>
-				<string>F913D228AFCF43EB91AE5593</string>
+				<string>63FE305780754EB0A99667F7</string>
+				<string>43F23E0EF7DF4498AF1AE364</string>
+				<string>60E55CC8E1A8413B89B4F235</string>
+				<string>B9CBA1AF0B374B40B5B3D87C</string>
+				<string>3DE7707AB0B944D1A1B18FA2</string>
+				<string>93BDF56722F34AD48461E1A2</string>
+				<string>7601724F53484BDBA867424E</string>
+				<string>96C19B2B7F414EFEBABB9FB5</string>
 			</array>
-			<key>defaultConfigurationIsVisible</key>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
 		</dict>
-		<key>EC6F80167C7B445393132C5F</key>
+		<key>C6E0FE1A5D4C469288C4647B</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>150F9D93E988448CA1BDA30B</string>
+				<string>2496C7536E7C41FCA86A6597</string>
+				<string>3611990AA4D244D3AD7CC0F5</string>
+				<string>DBC1E92A8EB84D2DAD8541EA</string>
+				<string>39F1A5A2F86949A3BD1D1026</string>
+				<string>7150C69BC376447694A7617E</string>
+				<string>227400E6C41C4ECFA443DD34</string>
+				<string>619D1B051EE843268FCD115B</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C98B28A711864AFB865DB4A6</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1187,20 +1501,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>GADInAppPurchase.h</string>
+			<string>GADInterstitial.h</string>
 			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInAppPurchase.h</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADInterstitial.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F3C35DA42E7E4660B2117B71</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C36A34990522477CAA3F4430</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F5D30E07B8A14324AA9FC732</key>
+		<key>CA4731789138412789B734E2</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1209,13 +1516,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>GADAdSize.h</string>
+			<string>GADCustomEventBannerDelegate.h</string>
 			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADAdSize.h</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Mediation/GADCustomEventBannerDelegate.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F5F887C938FC4B0B8A479BF0</key>
+		<key>CB8D63E99B104AA4A285B0CA</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1224,115 +1531,39 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>GADRequest.h</string>
+			<string>GADModules.h</string>
 			<key>path</key>
-			<string>GoogleMobileAdsSdkiOS-6.9.2/GADRequest.h</string>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/GADModules.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F8C305F08E1E4563939ED2F6</key>
+		<key>CBB0DBB3B1B749EBA7695E57</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>5AB1CF1C5CB045B99332B89E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>6.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>path</key>
+			<string>Pods-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F913D228AFCF43EB91AE5593</key>
+		<key>CDDFFFA1509843C8BC394EB1</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>3D91D718CC7F49668C3E3587</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-Google-AdMob-Ads-SDK-prefix.pch</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>6.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
+			<key>children</key>
+			<array>
+				<string>9ADE909CE2104EDEBEF1F1D3</string>
+			</array>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
+			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Release</string>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FE1C434C14BE4156AAEBCFCA</key>
+		<key>D231777173104EC991FD46E9</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1347,8 +1578,166 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D4C1ED3F96DA4909877272DC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>44119C4C70F2410BA11C5C79</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D6E872CB83AA463C8C6AE7D1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EC1E8B05A79A41BEAE394A13</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D7E9CEA9961547168093D63E</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>F42F313513AD4525ACE1313B</string>
+				<string>06BDEA39DDDA465280E988DF</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DBC1E92A8EB84D2DAD8541EA</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CoreTelephony.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreTelephony.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>EA28A5376AA840898052B4C0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0C5BA52A3576407499807536</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EBC0034668AC4A2FAB878A55</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CA4731789138412789B734E2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EC1E8B05A79A41BEAE394A13</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EE86A69317884E7398A5C014</key>
+		<dict>
+			<key>fileRef</key>
+			<string>66A26A4C81284F81B52FB231</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EFAF802D7ACD4E209C554B76</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0D7DD4A19C244222BA46BEDB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F0E21885FAE449869417FB89</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9617772F135644A4A442AA73</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F3ED77ECF33C455F998C70AA</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>7B6AE272FDC24455BF72B86E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>AA99CACD1B154341994D39E3</string>
+			<key>remoteInfo</key>
+			<string>Pods-Google-Mobile-Ads-SDK</string>
+		</dict>
+		<key>F42F313513AD4525ACE1313B</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>F46C059376414E0FA0D5051C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>GADCustomEventInterstitialDelegate.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/Mediation/GADCustomEventInterstitialDelegate.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F62593B44A6C4D3F9961F5AD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DFPBannerView.h</string>
+			<key>path</key>
+			<string>GoogleMobileAdsSdkiOS-6.9.2/Add-ons/DoubleClick/DFPBannerView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FE199EFA5846492291C8E2F5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-environment.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>337BFD13BB674B789EA5CAD0</string>
+	<string>7B6AE272FDC24455BF72B86E</string>
 </dict>
 </plist>
