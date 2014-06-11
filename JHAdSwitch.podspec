@@ -14,6 +14,8 @@ Pod::Spec.new do |s|
   ### Subspecs
   s.subspec 'Google-AdMob-Ads-SDK' do |gaa|
     gaa.source_files = 'GoogleMobileAdsSdkiOS-6.9.2/*.h'
-    gaa.dependency 'Google-AdMob-Ads-SDK', :podspec => 'https://raw.githubusercontent.com/kazekim/Private-Cocoapods/master/podspec/GoogleAdmob.podspec'
+    gaa.source = { :http => "http://dl.google.com/googleadmobadssdk/googlemobileadssdkios.zip" }
+    gaa.source_files = 'GoogleMobileAdsSdkiOS-6.9.2/*.h'
+    gaa.preserve_paths = 'GoogleMobileAdsSdkiOS-6.9.2'
   end
 end
