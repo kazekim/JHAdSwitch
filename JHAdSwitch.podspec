@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   ### Subspecs
    s.subspec 'AdMob' do |ad|
     ad.source_files = 'JHAdSwitch/AdMob'
-    ad.dependency 'AdMob', '6.9.2'
-    ad.prefix_header_contents = '#define ERROR_KIT_ADMOB 1'
+    ad.dependency 'AdMob', :podspec => 'https://raw.githubusercontent.com/kazekim/Private-Cocoapods/master/podspec/GoogleAdmob.podspec'
+    ad.prefix_header_contents = '#define JHADSWITCH_ADMOB 1'
   end
 end
