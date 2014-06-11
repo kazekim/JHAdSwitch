@@ -12,10 +12,10 @@ Pod::Spec.new do |s|
     s.requires_arc = true
 
   ### Subspecs
-  s.subspec 'Google-AdMob-Ads-SDK' do |gaa|
-    gaa.source_files = 'GoogleMobileAdsSdkiOS-6.9.2/*.h'
-    gaa.source = { :http => "http://dl.google.com/googleadmobadssdk/googlemobileadssdkios.zip" }
-    gaa.source_files = 'GoogleMobileAdsSdkiOS-6.9.2/*.h'
-    gaa.preserve_paths = 'GoogleMobileAdsSdkiOS-6.9.2'
+  s.subspec 'Google-AdMob-Ads-SDK' do |ga|
+    ga.source_files = 'GoogleMobileAdsSdkiOS-6.9.2/*.h'
+    ga.source = { :http => "http://dl.google.com/googleadmobadssdk/googlemobileadssdkios.zip" }
+    ga.source_files = 'GoogleMobileAdsSdkiOS-6.9.2/*.h'
+    ga.preserve_paths = 'GoogleMobileAdsSdkiOS-6.9.2'
   end
 end
