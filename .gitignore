@@ -1,0 +1,7 @@
+Podfile.lock
+JHAdSwitch.xcworkspace
+*.pbxproj
+Pods
+JHAdSwitch.xcodeproj/xcuserdata/KaZeKiM.xcuserdatad/
+.DS_Store
+.idea
