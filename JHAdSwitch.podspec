@@ -12,9 +12,9 @@ Pod::Spec.new do |s|
     s.requires_arc = true
 
   ### Subspecs
-   s.subspec 'AdMob' do |ad|
+   s.subspec 'Google-Mobile-Ads-SDK' do |ad|
     ad.source_files = 'JHAdSwitch/AdMob'
-    ad.dependency 'AdMob', :podspec => 'https://raw.githubusercontent.com/kazekim/Private-Cocoapods/master/podspec/GoogleAdmob.podspec'
+    ad.dependency 'Google-Mobile-Ads-SDK', '6.9.2'
     ad.prefix_header_contents = '#define JHADSWITCH_ADMOB 1'
   end
 end
