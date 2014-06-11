@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "JHAdSwitch"
-    s.version      = "1.0.0"
+    s.version      = "1.0.1"
     s.summary      = "Custom UIView for switch between iAd and Admob"
     s.homepage     = "https://github.com/kazekim/JHAdSwitch/"
     s.license      = { :type => 'MIT', :text => 'The JHAdSwitch source code is copyright 2014 Jirawat Harnsiriwatanakit and is licensed under the terms of the MIT license.' }
